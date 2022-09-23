@@ -1,1 +1,1 @@
-# code-learning-journal
+# Gabriel's Code Learning Journey
