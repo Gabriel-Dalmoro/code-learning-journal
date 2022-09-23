@@ -9,3 +9,7 @@ A journal for fun
 Today I am learning about Git things.
 
 - Gitty up! (hahaha)
+
+---
+
+# Woow such cool 😎
