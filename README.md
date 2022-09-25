@@ -12,4 +12,10 @@ Today I am learning about Git things.
 
 ---
 
-# Woow such cool 😎
+## September 25, 2022
+
+Learning about OOP (object-oriented programming).
+
+### The four pillars of OOP
+
+- - Encapsulation \*
