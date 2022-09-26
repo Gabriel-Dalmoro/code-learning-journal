@@ -27,3 +27,9 @@ Link: https://www.youtube.com/watch?v=PFmuCDHHpwk&ab_channel=ProgrammingwithMosh
 - Inheritance: eliminate redundant code
 
 - Polymorphism: refactor switch/case statements
+
+---
+
+## September 26, 2022
+
+- 'new' when creating a new function from constructor creates an empty object, and set 'this' to point to that object (instead of pointing to the global object).
