@@ -16,11 +16,11 @@ Today I am learning about Git things.
 
 Learning about OOP (object-oriented programming).
 
+Link: https://www.youtube.com/watch?v=PFmuCDHHpwk&ab_channel=ProgrammingwithMosh
+
 ### The four pillars of OOP
 
-- Encapsulation: group related variables and functions (methods) together.
-
-Reduce complexity and increase reusability
+- Encapsulation: Reduce complexity and increase reusability
 
 - Abstraction: reduce complexity and isolate the impact of changes.
 
